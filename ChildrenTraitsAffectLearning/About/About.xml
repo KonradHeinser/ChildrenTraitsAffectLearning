@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Childrens' Traits Affect Learning</name>
+  <author>alite</author>
+  <packageId>ChildrenTraitsAffectLearning.Mod</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  
+  <modDependencies>
+    <li>
+      <packageId>ludeon.rimworld.biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>Ludeon.RimWorld.Biotech</li>
+  </loadAfter>
+
+  <description>
+This mod causes the too Smart, fast learning, and slow learning traits to affect children's learning rates. This was kept separate from my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2976384929]genes affect learning rate mod[/url] because the effects do stack, which can make the effects much greater then some would like. For example, a child with the Slow Study Gene and the Slow Learner Trait only has a 12% learning rate factor.
+
+[url=https://steamcommunity.com/id/alite/myworkshopfiles/?appid=294100]Easy link to all of my Rimworld mods[/url]
+[url=https://github.com/KonradHeinser/ChildrenTraitsAffectLearning][img]https://i.imgur.com/kTkpTOE.png[/img][/url]
+[url=https://ko-fi.com/alite56114][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+  </description>
+</ModMetaData>
+
